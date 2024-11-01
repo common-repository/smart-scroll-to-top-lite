@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-08-10 11:45+0545\n"
+"PO-Revision-Date: 2018-08-10 11:45+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/backend/sstt_about.php:32
+msgid "WordPress Plugins"
+msgstr ""
+
+#: inc/backend/sstt_about.php:42
+msgid "WordPress Themes"
+msgstr ""
+
+#: inc/backend/sstt_about.php:49
+msgid "WordPress Customization"
+msgstr ""
+
+#: inc/backend/sstt_pages/add_new_element.php:10
+msgid "Could not add"
+msgstr ""
+
+#: inc/backend/sstt_pages/add_new_element.php:20
+#: inc/backend/sstt_pages/edit_element.php:25
+msgid "Element Name"
+msgstr ""
+
+#: inc/backend/sstt_pages/add_new_element.php:28
+#: inc/backend/sstt_pages/boards/layout_setting.php:3
+#: inc/backend/sstt_pages/edit_element.php:34
+msgid "Layout Setting"
+msgstr ""
+
+#: inc/backend/sstt_pages/add_new_element.php:29
+#: inc/backend/sstt_pages/boards/action_setting.php:3
+#: inc/backend/sstt_pages/edit_element.php:35
+msgid "Action Setting"
+msgstr ""
+
+#: inc/backend/sstt_pages/add_new_element.php:40
+msgid "Add New"
+msgstr ""
+
+#: inc/backend/sstt_pages/add_new_element.php:41
+msgid "Cancel"
+msgstr ""
+
+#: inc/backend/sstt_pages/add_new_element.php:48
+#: inc/backend/sstt_pages/edit_element.php:55
+msgid "Template Preview"
+msgstr ""
+
+#: inc/backend/sstt_pages/boards/action_setting.php:5
+msgid "Scroll Offset From"
+msgstr ""
+
+#: inc/backend/sstt_pages/boards/action_setting.php:15
+msgid "Pixels"
+msgstr ""
+
+#: inc/backend/sstt_pages/boards/action_setting.php:19
+msgid "Percentage"
+msgstr ""
+
+#: inc/backend/sstt_pages/boards/action_setting.php:23
+msgid "Scroll Speed"
+msgstr ""
+
+#: inc/backend/sstt_pages/boards/action_setting.php:24
+msgid "ms"
+msgstr ""
+
+#: inc/backend/sstt_pages/boards/action_setting.php:27
+msgid "Auto Hide"
+msgstr ""
+
+#: inc/backend/sstt_pages/boards/action_setting.php:35
+msgid "Auto Hide Time"
+msgstr ""
+
+#: inc/backend/sstt_pages/boards/action_setting.php:40
+msgid "Scroll Back To Position"
+msgstr ""
+
+#: inc/backend/sstt_pages/boards/layout_setting.php:5
+#: inc/backend/sstt_pages/main_menu_listing.php:14
+#: inc/backend/sstt_pages/main_menu_listing.php:60
+msgid "Template"
+msgstr ""
+
+#: inc/backend/sstt_pages/boards/layout_setting.php:18
+msgid "Button Text"
+msgstr ""
+
+#: inc/backend/sstt_pages/boards/layout_setting.php:24
+msgid "Desktop Position"
+msgstr ""
+
+#: inc/backend/sstt_pages/boards/layout_setting.php:33
+msgid "Mobile Position"
+msgstr ""
+
+#: inc/backend/sstt_pages/boards/template_variations.php:4
+msgid "Layout Type"
+msgstr ""
+
+#: inc/backend/sstt_pages/edit_element.php:10
+msgid "Added Successfully"
+msgstr ""
+
+#: inc/backend/sstt_pages/edit_element.php:12
+msgid "Edit Successful"
+msgstr ""
+
+#: inc/backend/sstt_pages/edit_element.php:14
+msgid "Edit Not Successful"
+msgstr ""
+
+#: inc/backend/sstt_pages/edit_element.php:46
+#: inc/backend/sstt_pages/element_setting.php:68
+msgid "Save Setting"
+msgstr ""
+
+#: inc/backend/sstt_pages/edit_element.php:47
+msgid "Preview"
+msgstr ""
+
+#: inc/backend/sstt_pages/edit_element.php:48
+msgid "Discard Changes"
+msgstr ""
+
+#: inc/backend/sstt_pages/element_setting.php:10
+msgid "Successful"
+msgstr ""
+
+#: inc/backend/sstt_pages/element_setting.php:14 inc/classes/sstt_admin.php:30
+#: inc/classes/sstt_admin.php:67
+msgid "General Setting"
+msgstr ""
+
+#: inc/backend/sstt_pages/element_setting.php:18
+msgid "Enable/Disable"
+msgstr ""
+
+#: inc/backend/sstt_pages/element_setting.php:25
+msgid "Mobile Mode"
+msgstr ""
+
+#: inc/backend/sstt_pages/element_setting.php:32
+msgid "Choose from"
+msgstr ""
+
+#: inc/backend/sstt_pages/element_setting.php:43
+msgid "Choose Default Element"
+msgstr ""
+
+#: inc/backend/sstt_pages/element_setting.php:51
+#: inc/backend/sstt_pages/main_menu_listing.php:52
+msgid "No Elements added so far"
+msgstr ""
+
+#: inc/backend/sstt_pages/element_setting.php:56
+msgid "Display On"
+msgstr ""
+
+#: inc/backend/sstt_pages/main_menu_listing.php:13
+#: inc/backend/sstt_pages/main_menu_listing.php:59
+msgid "Name"
+msgstr ""
+
+#: inc/backend/sstt_pages/main_menu_listing.php:15
+#: inc/backend/sstt_pages/main_menu_listing.php:61
+msgid "Layout"
+msgstr ""
+
+#: inc/backend/sstt_pages/main_menu_listing.php:16
+#: inc/backend/sstt_pages/main_menu_listing.php:62
+msgid "Actions"
+msgstr ""
+
+#: inc/classes/sstt_admin.php:18
+msgid "Smart Scroll"
+msgstr ""
+
+#: inc/classes/sstt_admin.php:18
+msgid "to Top Lite"
+msgstr ""
+
+#: inc/classes/sstt_admin.php:20
+msgid "Edit SSTT Setting"
+msgstr ""
+
+#: inc/classes/sstt_admin.php:20 inc/classes/sstt_admin.php:21
+msgid "Element Listing"
+msgstr ""
+
+#: inc/classes/sstt_admin.php:27 inc/classes/sstt_admin.php:56
+msgid "Add New Element"
+msgstr ""
+
+#: inc/classes/sstt_admin.php:31
+msgid "More WordPress Stuff"
+msgstr ""
+
+#: inc/classes/sstt_admin.php:41
+msgid "Edit Setting"
+msgstr ""
+
+#: inc/classes/sstt_admin.php:48
+msgid "Smart Scroll To Top Lite Elements Listing"
+msgstr ""
